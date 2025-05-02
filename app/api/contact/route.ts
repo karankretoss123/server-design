@@ -93,11 +93,11 @@
 import React from 'react'
 
 function route() {
-  return (
-    <div>
-      ger
-    </div>
-  )
+  // return (
+  //   <div>
+  //     ger
+  //   </div>
+  // )
 }
 
 export default route;
